@@ -13,7 +13,7 @@ middle_item = numbers[len(numbers) // 2]
 last_item = numbers[-1]
 
 #5 Declare a mixed data types list
-mixed_data_types = ["Christopher", 24, 1.80, "Single", "Downtown"]
+mixed_data_types = ["Jorge", 19, 1.67, "Single", "Downtown"]
 
 #6 Declare a list of IT companies
 it_companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
